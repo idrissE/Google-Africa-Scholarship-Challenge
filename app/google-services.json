@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "673710158631",
+    "firebase_url": "https://my-project-1474749597786.firebaseio.com",
+    "project_id": "my-project-1474749597786",
+    "storage_bucket": "my-project-1474749597786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673710158631:android:75bf18bbd91ebf90",
+        "android_client_info": {
+          "package_name": "com.example.android.googlechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673710158631-o8j6ns90ejqflsmtn6u3n6ui0d4ak0bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.googlechallenge",
+            "certificate_hash": "7c8b31730b1504b52b59d9c210d9b8f760581364"
+          }
+        },
+        {
+          "client_id": "673710158631-vf8lrrhjq5h33e2artfruethotpoi72d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXT9LP_H8klguAUQTCmbDNda5oRK5gGP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673710158631-vf8lrrhjq5h33e2artfruethotpoi72d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

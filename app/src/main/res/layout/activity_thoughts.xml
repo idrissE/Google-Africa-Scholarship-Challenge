@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/FullContainerStyle"
+    tools:context=".ThoughtsActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler"
+        style="@style/FullContainerStyle" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="@style/ProgressBarStyle" />
+
+    <TextView
+        android:id="@+id/error_msg"
+        style="@style/ErrorMsgStyle" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        style="@style/FloatingBtnStyle" />
+</RelativeLayout>

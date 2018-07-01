@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ItemContainerStyle">
+
+    <TextView
+        android:id="@+id/thought_title"
+        style="@style/ThoughtTitleStyle"
+        tools:text="My thought title" />
+
+    <TextView
+        android:id="@+id/thought_content"
+        style="@style/ThoughtSummaryStyle"
+        tools:text="Lorem ipsum dolor sit amet, et albucius temporibus vis, cu graeco volumus est. Minim delenit probatus eum ut. Ea mei ullum laudem, at maiorum vivendo urbanitas quo, usu ea brute deserunt concludaturque. Ne wisi dicta est, quot volutpat suavitate ad est." />
+</LinearLayout>

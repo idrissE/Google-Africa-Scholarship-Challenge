@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Google Challenge</string>
+    <!--Success / Error msgs-->
+    <string name="no_thoughts_error">Click the add button to add thoughts to your journal</string>
+    <string name="invalid_entries">Please make sure no field is left empty</string>
+    <string name="sign_in_error">is your google account setup ?</string>
+    <string name="thought_added_success">Thought successfully added</string>
+    <string name="thought_updated_success">Thought successfully updated</string>
+
+    <!--Hints-->
+    <string name="title_hint">Enter your thought title</string>
+    <string name="content_hint">Enter your thought</string>
+
+    <!--Buttons-->
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
